@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>ic_keyboard_arrow_down_24px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SLIDE9" transform="translate(-914.000000, -690.000000)" fill="#2F9DE0" stroke="#269CE3">
+            <path d="M916.763122,691.57021 L920,694.708502 L923.236879,691.570209 C923.56449,691.252577 924.085236,691.252861 924.4125,691.57085 C924.727772,691.877187 924.735015,692.381101 924.428678,692.696373 C924.423363,692.701843 924.41797,692.707236 924.4125,692.712551 L920,697 L915.5875,692.712551 C915.272228,692.406214 915.264985,691.9023 915.571322,691.587028 C915.576637,691.581558 915.58203,691.576165 915.5875,691.57085 C915.914764,691.252861 916.435511,691.252577 916.763122,691.57021 Z" id="ic_keyboard_arrow_down_24px"></path>
+        </g>
+    </g>
+</svg>

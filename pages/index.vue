@@ -1,7 +1,5 @@
 <template>
-  <div class="container">
-    <SelectInput label="whatever" :options="testArray" />
-  </div>
+  <MainCard />
 </template>
 
 <script>

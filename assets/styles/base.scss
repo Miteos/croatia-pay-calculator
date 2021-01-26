@@ -1,4 +1,6 @@
 @import "inputs/ _inputs";
+@import "layouts/layouts";
+@import "ui-elements/ui-elements";
 
 
 html {
@@ -11,6 +13,10 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
+  font-synthesis: none;
+  direction: ltr;
+  color: #333;
+  text-align: left;
 }
 
 *,
@@ -18,4 +24,38 @@ html {
 *::after {
   box-sizing: border-box;
   margin: 0;
+}
+
+::selection {
+  background: #f60 !important;
+  color: #fff !important;
+}
+::-moz-selection {
+  background: #f60;
+  color: #fff;
+}
+p,
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+button,
+input {
+  letter-spacing: 0.03em;
+  direction: ltr;
+}
+a {
+  text-decoration: none;
+}
+
+.page-enter-active,
+.page-leave-active {
+  transition: opacity 0.3s;
+}
+.page-enter,
+.page-leave-active {
+  opacity: 0;
 }
