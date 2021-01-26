@@ -1,0 +1,8 @@
+.custom-select{
+  display: flex;
+  flex-direction: column;
+  & label{
+    font-size: 12px;
+    padding: 0 12px;
+  }
+}
